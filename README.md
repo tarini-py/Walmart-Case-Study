@@ -85,19 +85,5 @@ The focus is on **Black Friday sales strategy**, using data analysis to identify
 
 ---
 
-## 🚀 How to Run  
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/Walmart-case-study.git
-   cd walmart-case-study
-
-2. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the notebook
-   ```bash
-   jupyter notebook walmart_case_study.ipynb
 
 
