@@ -6,6 +6,10 @@ The focus is on **Black Friday sales strategy**, using data analysis to identify
 
 ---
 
+## Project Notebook
+The analysis is available as a Google Colab notebook:  
+[Walmart Case Study Colab Notebook](https://colab.research.google.com/drive/1X6tyDSGtsQA2HMGPcrf4b9jC9Iie4HqX?usp=sharing)
+
 ## 📊 Customer Demographics  
 
 | Attribute       | Key Insight | Actionable Recommendation |
