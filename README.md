@@ -1,3 +1,6 @@
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad%20Samantray-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-tps/)
+
 # 🛒 Walmart Case Study
 
 ## 📌 Overview  
@@ -86,6 +89,10 @@ The analysis is available as a Google Colab notebook:
 - **Python**: Pandas, NumPy, SciPy, Statsmodels  
 - **Visualization**: Matplotlib, Seaborn, Plotly  
 - **Notebook Environment**: Jupyter / Google Colab  
+
+---
+
+👩‍💻 **Author**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad%20Samantray-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-tps/)
 
 ---
 
